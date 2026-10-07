@@ -112,7 +112,7 @@ The global **Payment Hardware Security Module (HSM) and Payment Cryptography Mar
 1. Fork this repository.
 2. Create a feature branch (`git checkout -b feature/new-crypto-tool`).
 3. Add or edit entries maintaining the exact tabular/bullet formatting.
-4. Ensure starting tier pricing, free limits, company sizes, and star count links are populated.
+4. Ensure starting tier pricing, free limits, company sizes, and Stars_Count links are populated.
 5. Open a Pull Request with a clear summary of changes.
 
 ---
